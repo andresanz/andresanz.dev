@@ -16,11 +16,11 @@
 {% for taglinks in kind.tags %}
 		
 {% unless forloop.last %}
-<a class="as-menu-link" href="/{{ kind.category | slugify }}/tags/{{ taglinks | replace: " ","-" | downcase }}#{{ taglinks | replace: " ","-" | downcase }}" title="{{ taglinks }} Tag">{{ taglinks }}</a>,
+<a class="as-menu-link" href="/{{ kind.category | slugify }}/tags/{{ taglinks | replace: " ","-" | downcase }}#{{ taglinks | replace: " ","-" | downcase }}">{{ taglinks }}</a>,
 
 {% else %}
 		
-<a class="as-menu-link" href="/{{ kind.category | slugify }}/tags/{{ taglinks | replace: " ","-" | downcase }}#{{ taglinks | replace: " ","-" | downcase }}" title="{{ taglinks }} Tag">{{ taglinks }}</a>
+<a class="as-menu-link" href="/{{ kind.category | slugify }}/tags/{{ taglinks | replace: " ","-" | downcase }}#{{ taglinks | replace: " ","-" | downcase }}">{{ taglinks }}</a>
 		
 {% endunless %}
 {% endfor %}

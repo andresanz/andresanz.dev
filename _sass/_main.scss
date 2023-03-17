@@ -3,11 +3,29 @@
 	new 2022.09.24 
 */
 
+.writing-prompt {
+	border: 1px lightgrey solid; 
+background-color: #F5EFB8; 
+padding-top: 2px; 
+padding-left: 4px; 
+padding-bottom: 2px; 
+padding-right: 4px; 
+border-radius: 4px;
+margin-bottom: 12px;
+}
+
+.writing-prompt-body {
+padding-top: 2px; 
+padding-left: 4px; 
+padding-bottom: 2px; 
+padding-right: 4px; 
+}
+
 ul.taglist {
 	list-style-type: none; 
 	padding: 0; 
 	margin: 0; 
-	margin-left: 28px;
+	margin-left: 30px;
 }
 
 li.taglist {
