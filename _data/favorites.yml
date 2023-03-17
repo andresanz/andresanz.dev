@@ -1,0 +1,32 @@
+title: Favorites
+description: created 12.18.22, 10:35 AM
+bookmark:
+  - category: General
+    links:
+      - name: Gmail
+        url: https://gmail.com/
+        comment: created 2022.12.18
+  - category: Online Tools
+    links:
+      - name: Public Album Google Album Scraper
+        url: https://www.publicalbum.org/blog/embedding-google-photos-albums
+      - name: Markdown Cheatsheet
+        url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+      - name: XML Formatter
+        url: https://www.freeformatter.com/xml-formatter.html
+      - name: Kramdown Quick Reference
+        url: https://kramdown.gettalong.org/quickref.html
+  - category: Online Learning
+    links:
+      - name: w3schools
+        url: https://www.w3schools.com/
+      - name: tutorialspoint
+        url: https://www.tutorialspoint.com/
+      - name:  Modern JavaScript 
+        url: https://javascript.info/
+      - name:  YAML Formatting 
+        url: https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html
+      - name: Jekyll Useage and Customization
+        url: https://jojozhuang.github.io/tutorial/jekyll-usage-and-customization/
+      - name: Detail & Summary HTML Elements
+        url: https://www.scottohara.me/blog/2022/09/12/details-summary.html

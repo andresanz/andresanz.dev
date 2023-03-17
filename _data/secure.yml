@@ -1,0 +1,23 @@
+title: Secure
+description: created 12.18.22, 10:35 AM
+bookmark:
+  - category: General
+    links:
+      - name: Gmail
+        url: https://gmail.com/
+        comment: created 2022.12.18
+  - category: Online Tools
+    links:
+      - name: Markdown Cheatsheet
+        url: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+      - name: XML Formatter
+        url: https://www.freeformatter.com/xml-formatter.html
+      - name: Kramdown Quick Reference
+        url: https://kramdown.gettalong.org/quickref.html
+  - category: Google
+    links:
+      - name: Google Searh Console
+        url: https://search.google.com/search-console?resource_id=sc-domain%3Aandresanz.com
+      - name: Google Programable Search Console
+        url: https://programmablesearchengine.google.com/controlpanel/all
+      
